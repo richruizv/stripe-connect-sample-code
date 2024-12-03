@@ -43,7 +43,7 @@ p {
 
 .banner {
   color: #fff;
-  background-color: #635bff;
+  background-color: #f43255;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -99,8 +99,8 @@ p {
 
 button {
   color: #fff;
-  background-color: #635bff;
-  border: 1px solid gray;
+  background-color: #f43255;
+  border: 1px solid salmon;
   border-radius: 4px;
   width: 420px;
   margin-top: 32px;

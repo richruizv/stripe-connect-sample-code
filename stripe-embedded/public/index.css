@@ -48,7 +48,7 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #635BFF;
+  background-color: #F43255;
   color: #ffffff;
 }
 
@@ -102,12 +102,12 @@ button {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 16px;
   font-weight: 600;
-  border: 1px solid gray;
+  border: 1px solid salmon;
   border-radius: 4px;
   margin-top: 32px;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #635BFF;
+  background-color: #F43255;
   color: #ffffff;
   width: 420px;
 }
